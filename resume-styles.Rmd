@@ -1,0 +1,18 @@
+---
+title: Robert M. Romito Resume Style Guide
+output: 
+    word_document:
+        df_print: "tibble"
+---
+# Head 1
+
+## Head 2
+
+### Head 3
+
+###### Head 6
+
+Table
+```{r}
+summary(cars)
+```

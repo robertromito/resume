@@ -1,0 +1,49 @@
+---
+title: Resume of Robert M. Romito
+output: 
+    word_document:
+        reference_docx: resume-styles.docx
+        df_print: "tibble"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(lubridate)
+library(tibble)
+```
+###### rob@robertromito.com | https://linkedin.com/in/robertromito | https://github.com/robertromito
+
+# Summary 
+
+Software and computing are my career, hobby, and passion. I've been doing this for 25+ years and I still love it.
+I enjoy learning, designing, architecting, prototyping, implementing, automating testing, automating deploying,
+instrumenting, monitoring, bug hunting, performance tuning, and improving all the processes necessary to keep
+systems running smoothly.
+
+I'm comfortable working with other developers on detailed technical issues and with non-technical product owners
+at a higher, value focused level. I prefer to be open and direct about the challenges and realities of building zero
+downtime, distributed systems. I think it's very important for the non-technical side to have a feel for why our work
+is so difficult to help them during discussions about timelines and budgets with their own Teams.
+
+# Recent Experience [^1]
+
+## American Red Cross
+
+### Dirctor, Engineering | January 2020 - present
+
+```{r}
+first_day <- ymd("2015/03/30")
+this_day <- today()
+exp <- tribble(
+~skill, ~start, ~end,
+"AEM", first_day, this_day,
+"Java", first_day, this_day,
+"AWS", ymd("2015/05/04"), this_day,
+)
+
+```
+
+### Enterprise Architect | January 2017 - January 2020
+
+### Software Developer | March 2015 - January 2017
+
+[^1]: Full professional history available on [LinkedIn](https://linkedin.com/in/robertromito)
