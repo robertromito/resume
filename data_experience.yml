@@ -1,0 +1,134 @@
+---
+experience:
+  - company: The Walt Disney Company
+    type: FTE
+    years: 2021 - Present
+    recency: most_recent
+    accomplishments:
+      - >-
+        Improved the pre-existing cache server
+        provisioning system to eliminate unnecessary
+        team handoffs, removing weeks of duration
+        from the overall process
+      - >-
+        Developed post deployment smoke test suite
+        and execution environment for validating
+        configuration of the global caching servers
+        for Disney+
+    key_skills:
+      - Python, Ansible, Bash, Linux, Java
+    roles:
+      - title: Lead Product Software Engineer
+        highlights:
+          - >-
+            Developed provisioning system for global
+            on-premisis caching infrastructure for
+            Disney+, Hulu, and ESPN
+      - title: Sr. DevOps Engineer
+        highlights:
+          - >-
+            Owned the CI/CD pipelines for the
+            control plane of the Disney+ global
+            on-premisis caching server infrastructure.
+          - >-
+            Automated the set up of the control plane's
+            multi-region AWS Aurora RDS database
+            instances, SQS queues, and SNS topics.
+  - company: American Red Cross
+    type: FTE
+    years: 2015 - 2021
+    recency: recent
+    accomplishments:
+      - >-
+        Transformed a monolithic web platform to a
+        service-based platform capable of withstanding
+        30x traffic spikes, preventing crashes
+        during critical hurricane/disaster response
+        events.
+      - >-
+        Led the initial migration from a legacy data
+        center to a cloud-based environment.
+    key_skills:
+      - AWS cloud native system design
+      - Jenkins & Ansible for CI/CD
+      - Dockerized, Java/Spring Restful APIs
+      - Adobe Experience Manager
+      - New Relic for instrumentation
+    roles:
+      - title: Director, Engineering
+        highlights:
+          - >-
+            Manage & grow the engineering team
+            responsible for delivering
+            redcross.org and redcrossblood.org
+      - title: Enterprise Architect
+        highlights:
+          - >-
+            Hands-on tech lead for the
+            redcross.org and redcrossblood.org
+            web platforms
+          - >-
+            Designed and fostered DevOps culture,
+            tools, and infrastructure
+      - title: Software Developer / DevOps
+        highlights:
+          - >-
+            Hands-on tech lead for the corporate intranet
+          - >-
+            Designed and implemented AWS infrastructure
+            for core Red Cross internal systems
+  - company: Independent Health
+    type: Contract
+    years: 2011 - 2015
+    recency: old
+    highlights: [""]
+  - company: Sodexo
+    type: Contract
+    years: 2009 - 2011
+    recency: old
+    highlights: [""]
+  - company: Academic Software Plus
+    type: FTE
+    years: 2008 - 2009
+    recency: old
+    highlights: [""]
+  - company: HealthNow New York Inc.
+    type: Contract
+    years: 2008
+    recency: old
+    highlights: [""]
+  - company: Sodexo
+    type: Contract
+    years: 2006 - 2008
+    recency: old
+    highlights: [""]
+  - company: Fiserv
+    type: FTE
+    years: 2005 - 2006
+    recency: old
+    highlights: [""]
+  - company: LanTrax, Inc.
+    type: FTE
+    years: 2003 - 2005
+    recency: old
+    highlights: [""]
+  - company: AURORA Consulting Group
+    type: FTE
+    years: 2002 - 2003
+    recency: old
+    highlights: [""]
+  - company: IBM
+    type: FTE
+    years: 1995 - 2002
+    recency: old
+    highlights: [""]
+    roles:
+      - title: I/T Specialist Intern
+        highlights:
+          - >-
+            As part of the Canadian Industrial Internship Program,
+            I provided 2nd level support for several IBM products
+            through an IBM OEM marketing unit.
+          - >-
+            Primary technical skills:
+            AS/400 Wireless Lan, Lotus Notes, OS/2, REXX
